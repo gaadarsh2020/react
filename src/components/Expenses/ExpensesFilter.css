@@ -1,0 +1,20 @@
+.Expenses-Filter__Control {
+  color: aliceblue;
+  font-weight: 300;
+  justify-content: space-between;
+  display: flex;
+}
+label {
+  font-weight: 300px;
+  font-size: 25px;
+}
+
+select {
+  border-radius: 12px;
+  background-color: aliceblue(51, 49, 49);
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  justify-content: center;
+  padding-left: 10px;
+}
